@@ -1,0 +1,113 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+.remove-underline {
+    text-decoration: none;
+}
+
+.change-fontcolor {
+    color-adjust: blue;
+}
+
+:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color-adjust: blue;
+}
+
+.paragraph-one {
+    color: purple;
+    font-weight: bolder;
+}
+
+.paragraph-two {
+    color: yellow;
+    font-weight: lighter;
+}
+
+.paragraph-three {
+    color: turquoise;
+    font-weight: bolder;
+}
+
+.paragraph-four {
+    color: red;
+    font-weight: bolder;
+}
+
+.boxes {
+    margin: 0em;
+    padding: 0em;
+    border: black;
+    border-radius: 3em;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: white;
+}
+
+#box2 {
+     background-color: cadetblue;
+   
+}
+
+#box3 {
+    background-color: chocolate;
+}
+
+#box4 {
+    background-color: darkblue;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(71, 137, 175);
+    position: relative;
+    top: 3.5em;
+    left: 5em;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.original {
+    color: burlywood;
+}
+
+.additional {
+    color: coral;
+}
+
+#show1 {
+    color: darkgreen;
+}
+
+ul {
+    color: darkorange;
+}
+
+.star {
+    color: rgb(167, 35, 105);
+}
+
+#wars {
+    color: lime;
+}
+
+.around {
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+
+}
